@@ -27,26 +27,15 @@ We have a Salesforce Housing Sector private group in the Trailblazer community. 
 Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
 
 
-***
-BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR SPRINT PARTICIPATION. 
-1. Cut the below from the readme and paste into a new Wiki page. Delete these instructions.
-2. Update that wiki page with details from the Sprint. 
-3. Copy that format for the next Sprint.
-
-# Sprint (DATE): 
-## Project Team & Accomplishments
-Add details here - what you did, links to docs if there are any, etc.
-
 ## Contributors
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Rachael Stamper      | Group Leader  | [RachaelStamper](https://github.com/rachaelstamper)   
+Beth Noel            | Group Leader  | [violinbeth](https://github.com/violinbeth)                                       
 
 ## Future Contributions 
-(AKA what were you unable to finish at the Sprint)
-Replace with the goals your team would like to continue working on next time.
+As the sprint was only two days, we were unable to perfect our contact summary prompt. This is because a flow needs to be created which looks at various objects and loops around, but we timed out on completing this. 
 
 ***
 
